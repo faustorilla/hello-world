@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+G'day Earthlings!
+
+Greetings from Planet 
+Are you enjoying life?
+
