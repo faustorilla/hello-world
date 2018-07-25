@@ -2,6 +2,6 @@
 
 G'day Earthlings!
 
-Greetings from Planet 
+Greetings from Planet Z. 
 Are you enjoying life?
 
